@@ -1,0 +1,1 @@
+Basic projects for learning Java fundamentals
